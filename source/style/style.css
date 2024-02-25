@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Pixel";
+    src: url('fonts/PixelFontRus.otf') format('truetype');
+    /* Другие форматы шрифта (например, woff, woff2) могут быть добавлены, чтобы обеспечить поддержку различных браузеров */
+}
+body{
+  margin: 0;
+  background-color: #0f0f0f;
+}
+h1{
+  font-family: "Pixel";
+  color: white;
+}
+
+#title1{
+  font-size: 100px;
+}
+#title2{
+  margin-top: -100px;
+  font-size: 85px;
+}
+.center{
+  font-family: "Pixel";
+  color: white;
+  text-align: center;
+  margin-top: -80px;
+}
